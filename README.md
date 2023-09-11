@@ -1,4 +1,8 @@
-### Hi there 👋
+###👋 Hi, I'm Abhay Mathur
+- 🔭 I am interested in AI/ML, Deep Learning, Webdev (Backend - Flask/Django), Gaming and Music
+- 🌱 I am currently learning NLP
+- 🧑‍🤝‍🧑 I am lookihg to collaborate on Machine Learning projects
+- 📫 How to reach me: [Gmail](a21.mathur21@gmail.com), [Linkedin](https://www.linkedin.com/in/abhaymathur21/)
 
 <!--
 **abhaymathur21/abhaymathur21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
