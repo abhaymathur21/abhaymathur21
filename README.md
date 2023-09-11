@@ -1,4 +1,4 @@
-#👋 Hi, I'm Abhay Mathur
+👋 Hi, I'm Abhay Mathur
 - 🔭 I am interested in AI/ML, Deep Learning, Webdev (Backend - Flask/Django), Gaming and Music
 - 🌱 I am currently learning NLP
 - 🧑‍🤝‍🧑 I am lookihg to collaborate on Machine Learning projects
