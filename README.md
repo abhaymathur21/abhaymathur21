@@ -20,3 +20,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhaymathur21&icon=0&color=0)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/e82b42b4-a31f-412c-a091-bcd0f1a66f1a.svg)](https://wakatime.com/@e82b42b4-a31f-412c-a091-bcd0f1a66f1a)
