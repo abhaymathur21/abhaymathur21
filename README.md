@@ -1,12 +1,14 @@
-# 👋 Hi, I'm Abhay Mathur <img align="right" width="250" alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
+# 👋 Hi, I'm Abhay Mathur <img align="right" width="350" alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
 
-- 👨‍🎓 I am a student in the field of Artificial Intelligence & Machine Learning in my
-3rd year of B.Tech
+- 👨‍🎓 I am a student in the field of Artificial Intelligence & Machine Learning in my 3rd year of B.Tech
 - 🔭 I am interested in AI/ML, Deep Learning, Computer Vision, NLP, Webdev (Backend - Flask/Django), Gaming and Music
-- 🧑‍🤝‍🧑 I am lookihg to collaborate on Machine Learning projects
+- 🧑‍🤝‍🧑 I am looking to collaborate on Machine Learning projects
+- 🥉 3rd Prize Winner at Hack-AI (IIT Bombay Techfest 2023)
+- 🥉 3rd Prize Winner at Sociothon (IIT Roorkee 2023)
+- 🥇 Winner in Problem Statement at Datahack 2.0 (DJSCE)
 
-## 🌐 Socials:
+**Socials:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaymathur21/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ab_haymathur/)
 
 # 💻 Tech Stack:
