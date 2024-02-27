@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Abhay Mathur <img align="right" width="250" alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
 
-- 👨‍🎓 I am a student in the field of Artificial Intelligence & Machine Learning in my 3rd year of B.Tech
+- 👨‍🎓 I am a student in the field of Artificial Intelligence & Machine Learning in my
+3rd year of B.Tech
 - 🔭 I am interested in AI/ML, Deep Learning, Computer Vision, NLP, Webdev (Backend - Flask/Django), Gaming and Music
 - 🧑‍🤝‍🧑 I am lookihg to collaborate on Machine Learning projects
 
