@@ -4,6 +4,7 @@
 - 👨‍🎓 I am a student in the field of Artificial Intelligence & Machine Learning in my 3rd year of B.Tech
 - 🔭 I am interested in AI/ML, Deep Learning, Computer Vision, NLP, Webdev (Backend - Flask/Django), Gaming and Music
 - 🧑‍🤝‍🧑 I am looking to collaborate on Machine Learning projects
+- 💼 AI Developer Intern at Airrchip
 - 🥉 3rd Prize Winner at Hack-AI (IIT Bombay Techfest 2023)
 - 🥉 3rd Prize Winner at Sociothon (IIT Roorkee 2023)
 - 🥇 Winner in Problem Statement at Datahack 2.0 (DJSCE)
