@@ -4,11 +4,11 @@
 - 👨‍🎓 I am a student in the field of Artificial Intelligence & Machine Learning in my 4th year of B.Tech
 - 🔭 I am interested in AI/ML, Deep Learning, Computer Vision, NLP, Webdev (Backend - FastAPI/Flask/Django), Gaming and Music
 - 🧑‍🤝‍🧑 I am looking to collaborate on Machine Learning projects
-- 💼 AI Developer Intern at Airrchip
+- 💼 Ex AI Developer Intern at Airrchip
+- 💼 Ex ML Intern at Mecha Systems
 - 🥉 3rd Prize Winner at Hack-AI (IIT Bombay Techfest 2023)
 - 🥉 3rd Prize Winner at Sociothon (IIT Roorkee 2023)
 - 🥇 Winner in Problem Statement at Datahack 2.0 (DJSCE)
-- 💼 Ex ML Intern at Mecha Systems
 
 **Socials:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaymathur21/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ab_haymathur/)
